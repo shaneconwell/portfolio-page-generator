@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-page-generator",
+  "version": "1.0.0",
+  "description": "A command-line tool that generates an HTML portfolio page from user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneconwell/portfolio-page-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaneconwell/portfolio-page-generator/issues"
+  },
+  "homepage": "https://github.com/shaneconwell/portfolio-page-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
